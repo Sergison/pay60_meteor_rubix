@@ -3,6 +3,11 @@ logs
 *.log
 npm-debug.log*
 
+# meteor
+.meteor
+
+.idea
+
 # Runtime data
 pids
 *.pid
